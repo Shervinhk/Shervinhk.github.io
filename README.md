@@ -12,7 +12,7 @@ Ed is a [Jekyll](https://jekyllrb.com/) theme designed for textual editors based
 durability, ease and flexibility.
 
 One of our most pressing and ever-evolving needs as scholars is to pass on our textual artifacts
-from one generation to another. The art of textual editing, among other practices, has helped many
+from one generation to another. The arts of textual editing, among other practices, has helped many
 cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its
 highest form by a dwindling number of scholars. In a digital environment the problem is compounded
 by the difficulties of the medium. While vast repositories and "e-publications" appear on the
