@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-
+About Page 
 One of our most pressing and ever-evolving needs as scholars is to pass on our textual artifacts
 from one generation to another. The art of textual editing, among other practices, has helped many
 cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its
